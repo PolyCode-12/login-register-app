@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <title>Auth System | JSON Server</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="auth-container">
+        <section id="register-section">
+            <h2>Qeydiyyatdan Keç</h2>
+            <form id="register-form">
+                <input type="text" id="reg-username" placeholder="İstifadəçi adı" required>
+                <input type="email" id="reg-email" placeholder="Email" required>
+                <input type="password" id="reg-password" placeholder="Şifrə" required>
+                <button type="submit">Hesab Yarat</button>
+            </form>
+            <p>Hesabınız var? <a href="#" id="to-login">Giriş edin</a></p>
+        </section>
+
+        <section id="login-section" class="hidden">
+            <h2>Daxil Ol</h2>
+            <form id="login-form">
+                <input type="email" id="login-email" placeholder="Email" required>
+                <input type="password" id="login-password" placeholder="Şifrə" required>
+                <button type="submit">Giriş</button>
+            </form>
+            <p>Hesabınız yoxdur? <a href="#" id="to-register">Qeydiyyat</a></p>
+        </section>
+
+        <div id="welcome-msg" style="display: none;">
+            <h1>Xoş gəldiniz, <span id="user-display"></span>!</h1>
+            <button id="logout-btn">Çıxış et</button>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>

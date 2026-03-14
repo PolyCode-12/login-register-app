@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "e208",
+      "username": "sasas",
+      "email": "mtbxdunyasi@gmail.com",
+      "password": "sadd"
+    },
+    {
+      "id": "453d",
+      "username": "adss",
+      "email": "celilxelil95@gmail.com",
+      "password": "sdaasda"
+    },
+    {
+      "id": "1458",
+      "username": "adss",
+      "email": "celilxelil95@gmail.com",
+      "password": "ssaa"
+    },
+    {
+      "id": "18fc",
+      "username": "adss",
+      "email": "celilxelil95@gmail.com",
+      "password": "sssssssss"
+    },
+    {
+      "id": "3143",
+      "username": "sasas",
+      "email": "mtbxdunyasi@gmail.co",
+      "password": "jbvjbj"
+    },
+    {
+      "id": "7b65",
+      "username": "ssssss",
+      "email": "sasasasas@gmail",
+      "password": "sxs"
+    },
+    {
+      "id": "fe4b",
+      "username": "alsjIJASj",
+      "email": "hsijsakmals@gmail",
+      "password": "aslkoask"
+    },
+    {
+      "id": "9e88",
+      "username": "alsjIJASj",
+      "email": "hsijsakaals@gmail",
+      "password": "aslkoask"
+    },
+    {
+      "id": "cad8",
+      "username": "dfsfs",
+      "email": "sasasasasdfd@gmail",
+      "password": "sdfdsf"
+    },
+    {
+      "id": "a5fd",
+      "username": "earrrrrw",
+      "email": "dddsfdgg@gmail",
+      "password": "dfgdgdgdfg"
+    },
+    {
+      "id": "04eb",
+      "username": "dfsssssssssss",
+      "email": "askdjaidhi@gmail",
+      "password": "efffffffffff"
+    },
+    {
+      "id": "262b",
+      "username": "podoks",
+      "email": "mtbxdunya@gmail.com",
+      "password": "afaff"
+    },
+    {
+      "id": "92b4",
+      "username": "fdfd",
+      "email": "sfkjfiui@gmail.com",
+      "password": "   "
+    },
+    {
+      "id": "8cd8",
+      "username": "jjsdjasdja",
+      "email": "aKJKJDKajdj@gmail.com",
+      "password": "ajkajsdjaidjijd"
+    },
+    {
+      "id": "a7ea",
+      "username": "Azerbaijan",
+      "email": "azerbaijan@gmail.com",
+      "password": "qarafasnkk23"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
